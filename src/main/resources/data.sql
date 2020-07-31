@@ -1,0 +1,1 @@
+-- insert into apple_user(name) values ('fromscript') ON CONFLICT DO NOTHING;

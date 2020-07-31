@@ -1,0 +1,16 @@
+// response :
+[
+  {
+    "id": 1,
+    "name": "lkl"
+  },
+  {
+    "id": 2,
+    "name": "a"
+  },
+  {
+    "name": "artem",
+    "login": "artem",
+    "password": "artem"
+  }
+]
